@@ -14,3 +14,5 @@ git push;
 git log;
 git reset.
 
+And how to fix merge conflicts.
+
